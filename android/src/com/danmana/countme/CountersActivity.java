@@ -1,9 +1,15 @@
 package com.danmana.countme;
 
-import android.os.Bundle;
 import android.app.Activity;
+import android.os.Bundle;
 import android.view.Menu;
 
+/**
+ * Main activity for displaying a list of counters.
+ * 
+ * @author Dan Manastireanu
+ * 
+ */
 public class CountersActivity extends Activity {
 
 	@Override
